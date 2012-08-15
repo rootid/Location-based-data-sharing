@@ -1,0 +1,10 @@
+D:\MS\2nd_Sem\Modern_Networking_Concepts\project\LBTweetWorkerRole\LBTweetWorker\bin\Release\LBTweetWorker.dll.config
+D:\MS\2nd_Sem\Modern_Networking_Concepts\project\LBTweetWorkerRole\LBTweetWorker\bin\Release\LBTweetWorker.dll
+D:\MS\2nd_Sem\Modern_Networking_Concepts\project\LBTweetWorkerRole\LBTweetWorker\bin\Release\LBTweetWorker.pdb
+D:\MS\2nd_Sem\Modern_Networking_Concepts\project\LBTweetWorkerRole\LBTweetWorker\bin\Release\Microsoft.WindowsAzure.Diagnostics.dll
+D:\MS\2nd_Sem\Modern_Networking_Concepts\project\LBTweetWorkerRole\LBTweetWorker\bin\Release\Microsoft.WindowsAzure.StorageClient.dll
+D:\MS\2nd_Sem\Modern_Networking_Concepts\project\LBTweetWorkerRole\LBTweetWorker\bin\Release\Microsoft.WindowsAzure.Diagnostics.xml
+D:\MS\2nd_Sem\Modern_Networking_Concepts\project\LBTweetWorkerRole\LBTweetWorker\bin\Release\Microsoft.WindowsAzure.StorageClient.xml
+D:\MS\2nd_Sem\Modern_Networking_Concepts\project\LBTweetWorkerRole\LBTweetWorker\obj\Release\ResolveAssemblyReference.cache
+D:\MS\2nd_Sem\Modern_Networking_Concepts\project\LBTweetWorkerRole\LBTweetWorker\obj\Release\LBTweetWorker.dll
+D:\MS\2nd_Sem\Modern_Networking_Concepts\project\LBTweetWorkerRole\LBTweetWorker\obj\Release\LBTweetWorker.pdb

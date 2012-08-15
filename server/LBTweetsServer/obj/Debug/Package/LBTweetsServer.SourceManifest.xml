@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\MS\2nd_Sem\Modern_Networking_Concepts\project\LBTweetsServer\LBTweetsServer\obj\Debug\Package\PackageTmp" managedRuntimeVersion="v4.0" />
+  <setAcl path="D:\MS\2nd_Sem\Modern_Networking_Concepts\project\LBTweetsServer\LBTweetsServer\obj\Debug\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="D:\MS\2nd_Sem\Modern_Networking_Concepts\project\LBTweetsServer\LBTweetsServer\obj\Debug\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

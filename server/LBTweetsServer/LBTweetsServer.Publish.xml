@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="http://ec2-23-22-46-152.compute-1.amazonaws.com" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="testSite/LBTweets" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="True" profileName="Profile1" publishMethod="MSDeploy" replaceMatchingFiles="True" userName="Administrator" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAeCBfBcR1/keX07ZuE+ndrwAAAAACAAAAAAAQZgAAAAEAACAAAAAXWRFFkB1tXsCPUsdUtsyXpHw8tdWUke7JYULZKeqw1QAAAAAOgAAAAAIAACAAAAAN4hNkc5Q0kiTe0D1I3J29p7IBXHObthbGHMfrIFE0uiAAAAABpWHXpsr1EzPl8zZ+A+C2O4i+hJqV3fWBaPFt0g+Y/UAAAACHU9kwLP5RwGU0XNajVC4XKW44BDK72YIUn2mLIkSI4HZ3WH5hUC+9hgl1EfT8qT9VHqM3huREOzSVibcfvkS9" SelectedForPublish="True" />
+</publishData>
